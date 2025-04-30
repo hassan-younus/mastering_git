@@ -1,3 +1,4 @@
-#  Hello, Git!
-- "I am adding in this 
-- feature Branch-1"
+#  Guten Tag!
+- "Heyoo!! I am dev JSM and I would like to meet."
+- I am working on Git advanced commands
+- 
