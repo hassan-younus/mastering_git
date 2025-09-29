@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #  Welcome to Git!
 - I am learning Git and practicing
 - merge conflicts
@@ -6,4 +6,3 @@
 =======
 - I am working on Git advanced commands
 - 
->>>>>>> main
